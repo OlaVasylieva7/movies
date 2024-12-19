@@ -25,9 +25,9 @@ async function allBtnClick() {
 
 function renderMovies(movies) {
   const markUp = movies
-    .map(({img, title, genre, year, id}) => ` <li class="movies__item">
+    .map(({image, title, genre, year, id}) => ` <li class="movies__item">
   <div>
-    <img class="movies__image" src="${img}" alt="#"  onerror="this.src='https://via.placeholder.com/150';" />
+    <img class="movies__image" src="${image}" alt="#"  onerror="this.src='https://via.placeholder.com/150';" />
     <h2 class="movies__title"><b>Title: </b>${title}</h2>
     <p class="movies__genre"><b>Genre: </b>${genre}</p>
     <p class="movies__year"><b>Year: </b>${year}</p>

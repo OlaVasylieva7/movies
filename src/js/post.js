@@ -30,7 +30,7 @@ function onFormSubmit(e) {
 
   postMovie(newMovie)
     .then(() => {
-      allert('movie added');
+      alert('movie added');
     })
     .catch(error => {
       console.error('failed to add');
