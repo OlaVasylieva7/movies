@@ -202,6 +202,22 @@
       "genre": "Comedy",
       "director": "Pierre Coffin",
       "year": 2015
+    },
+    {
+      "id": "5f5d",
+      "image": "https://alternativemovieposters.com/wp-content/uploads/2024/11/Ryan-Coleman_Crow.jpg",
+      "title": "Crow",
+      "genre": "Crime",
+      "director": "Olcia",
+      "year": "2020"
+    },
+    {
+      "id": "2f8b",
+      "image": "https://alternativemovieposters.com/wp-content/uploads/2024/10/Dorothea-Taylor_Wicked.jpg",
+      "title": "Wicked",
+      "genre": "Musical",
+      "director": "Dorothea Taylor",
+      "year": "2024"
     }
   ]
 }
